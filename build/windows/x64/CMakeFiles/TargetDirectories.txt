@@ -1,0 +1,2 @@
+C:/Users/Rnauh/StudioProjects/myapp8_memory_game-master/build/windows/x64/CMakeFiles/ALL_BUILD.dir
+C:/Users/Rnauh/StudioProjects/myapp8_memory_game-master/build/windows/x64/CMakeFiles/ZERO_CHECK.dir
